@@ -13,7 +13,7 @@
 ### 1.2
 Перед началом разработки прикинуть, на какое количество логических модулей можно разбить приложение. Стоит следовать правилу 1 модуль = 1 блок (целл/ячейка) 
 
-![alt tag](https://github.com/traffman/dhtmlx-code-style/blob/master/1.1.2.png)
+![alt tag](https://github.com/traffman/dhtmlx-code-style/blob/master/img/1.1.2.png)
 
 ### 1.3
 Все общение между модулями строится на эвентах, а именно:
